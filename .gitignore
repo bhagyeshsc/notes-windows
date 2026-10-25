@@ -1,0 +1,8 @@
+/dist/
+/.vs/
+*.user
+*.suo
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
