@@ -8,7 +8,7 @@ Notes is a small, offline-first notes app for Windows. Keep your ideas in a simp
 
 [Download for Windows](https://github.com/bhagyeshsc/notes-windows/releases/latest) · [Report an issue](https://github.com/bhagyeshsc/notes-windows/issues)
 
-<img width="1122" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0faad35-2617-4284-a7bf-4ee76b990b59" />
+<img width="1571" height="1042" alt="image" src="https://github.com/user-attachments/assets/4a5bed7a-3aa8-4276-b210-0a9d2a44159f" />
 
 
 ## Small app. Thoughtful details.
