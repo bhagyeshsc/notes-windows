@@ -1,4 +1,4 @@
-# Notes
+﻿# Notes
 
 ### A little room to think.
 
@@ -6,9 +6,8 @@ Notes is a small, offline-first notes app for Windows. Keep your ideas in a simp
 
 **Free to use. Open source. No account, subscription, or cloud service required.**
 
-[Download for Windows](https://github.com/bhagyeshsc/notes-windows/releases/latest) · [Visit the app page](https://bhagyeshsc.github.io/notes-windows/) · [Report an issue](https://github.com/bhagyeshsc/notes-windows/issues)
+[Download for Windows](https://github.com/bhagyeshsc/notes-windows/releases/latest) · [Report an issue](https://github.com/bhagyeshsc/notes-windows/issues)
 
-![The Notes collection in dark mode, with saved notes and the Note and Temp note buttons](docs/assets/collection-dark.png)
 
 ## Small app. Thoughtful details.
 
@@ -22,7 +21,7 @@ Notes is a small, offline-first notes app for Windows. Keep your ideas in a simp
 
 ## Download and run
 
-Open [Releases](https://github.com/bhagyeshsc/notes-windows/releases/latest) and download the Windows package. Extract the ZIP before running either app:
+Open [Releases](https://github.com/bhagyeshsc/notes-windows/releases/latest) and download `Notes-Setup.exe` to install, or `Notes.exe` to run standalone. The optional Windows ZIP contains both; extract it before running an app. Keep a copy of the included MIT licence when redistributing.
 
 | File | Use it for |
 | --- | --- |
@@ -95,7 +94,6 @@ For development, keep test notes separate from real notes:
 | `Scrollbars.cs` | Themed scrollbars |
 | `Setup.cs` | Per-user installation and uninstallation |
 | `BuildAssets.cs` | App icon generation |
-| `docs/` | Static GitHub Pages app page and screenshots |
 
 ## Contributing
 
